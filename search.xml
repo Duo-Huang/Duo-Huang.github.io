@@ -45,4 +45,49 @@
         <tag>技术</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Node 调试工具入门教程</title>
+    <url>/2020/12/14/nodeDebug/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol>
+<li>Node 调试工具入门教程(<a href="https://mp.weixin.qq.com/s/OYc_kgOMw4muLBskjDT2Xw" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/OYc_kgOMw4muLBskjDT2Xw</a>)</li>
+</ol>
+]]></content>
+      <categories>
+        <category>技术</category>
+        <category>NodeJs</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>node实现一个命令行工具</title>
+    <url>/2020/12/14/nodeCli/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol>
+<li>从 1 到完美，用 node 写一个命令行工具(<a href="https://mp.weixin.qq.com/s/7CsVqkn6hhHcFYmcB4P3qA" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/7CsVqkn6hhHcFYmcB4P3qA</a>)</li>
+</ol>
+]]></content>
+      <categories>
+        <category>技术</category>
+        <category>NodeJs</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Node.js 进程与线程</title>
+    <url>/2020/12/14/threadAndProcess/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol>
+<li>深入理解 Node.js 进程与线程(<a href="https://mp.weixin.qq.com/s/VzXnnfn4gCBMd5wea3LRIg" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/VzXnnfn4gCBMd5wea3LRIg</a>)</li>
+</ol>
+]]></content>
+      <categories>
+        <category>技术</category>
+        <category>NodeJs</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
 </search>

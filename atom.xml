@@ -103,4 +103,91 @@
     
   </entry>
   
+  <entry>
+    <title>Node 调试工具入门教程</title>
+    <link href="https://duohuang.gitee.io/2020/12/14/nodeDebug/"/>
+    <id>https://duohuang.gitee.io/2020/12/14/nodeDebug/</id>
+    <published>2020-12-14T03:14:50.000Z</published>
+    <updated>2020-12-15T08:00:24.202Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://duohuang.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="NodeJs" scheme="https://duohuang.gitee.io/categories/%E6%8A%80%E6%9C%AF/NodeJs/"/>
+    
+    
+      <category term="技术" scheme="https://duohuang.gitee.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>node实现一个命令行工具</title>
+    <link href="https://duohuang.gitee.io/2020/12/14/nodeCli/"/>
+    <id>https://duohuang.gitee.io/2020/12/14/nodeCli/</id>
+    <published>2020-12-14T03:14:50.000Z</published>
+    <updated>2020-12-15T08:08:17.002Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://duohuang.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="NodeJs" scheme="https://duohuang.gitee.io/categories/%E6%8A%80%E6%9C%AF/NodeJs/"/>
+    
+    
+      <category term="技术" scheme="https://duohuang.gitee.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Node.js 进程与线程</title>
+    <link href="https://duohuang.gitee.io/2020/12/14/threadAndProcess/"/>
+    <id>https://duohuang.gitee.io/2020/12/14/threadAndProcess/</id>
+    <published>2020-12-14T03:14:50.000Z</published>
+    <updated>2020-12-15T08:18:31.495Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://duohuang.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="NodeJs" scheme="https://duohuang.gitee.io/categories/%E6%8A%80%E6%9C%AF/NodeJs/"/>
+    
+    
+      <category term="技术" scheme="https://duohuang.gitee.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
 </feed>
