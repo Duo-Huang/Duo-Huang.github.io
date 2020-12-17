@@ -90,4 +90,19 @@
         <tag>技术</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Git子库：submodule与subtree</title>
+    <url>/2020/12/14/gitSubtree/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol>
+<li>Git子库：submodule与subtree(<a href="https://www.cnblogs.com/AhuntSun-blog/archive/2004/01/13/12736934.html" target="_blank" rel="noopener">https://www.cnblogs.com/AhuntSun-blog/archive/2004/01/13/12736934.html</a>)</li>
+</ol>
+]]></content>
+      <categories>
+        <category>技术</category>
+        <category>Git</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
 </search>
